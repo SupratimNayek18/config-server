@@ -1,4 +1,4 @@
 info:
-  java-version: 17
+  javaVersion: 17
   build: qa
   microservice: accounts
