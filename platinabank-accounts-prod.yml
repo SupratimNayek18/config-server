@@ -1,4 +1,4 @@
 info:
   javaVersion: 17
-  build: prod
-  microservice: accounts
+  build: production
+  microservice: platinabank-accounts
