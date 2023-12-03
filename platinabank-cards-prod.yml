@@ -1,4 +1,4 @@
 info:
   java-version: 17
-  build: production
+  build: production webhooks added
   microservice: platinabank-cards
