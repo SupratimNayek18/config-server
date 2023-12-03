@@ -1,4 +1,4 @@
 info:
   java-version: 17
-  build: prod
+  build: production
   microservice: platinabank-loans
